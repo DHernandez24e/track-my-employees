@@ -1,0 +1,29 @@
+{
+  "name": "track-my-employees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.1.0",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "migrate": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHernandez24e/track-my-employees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DHernandez24e/track-my-employees/issues"
+  },
+  "homepage": "https://github.com/DHernandez24e/track-my-employees#readme"
+}
