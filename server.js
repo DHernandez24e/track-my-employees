@@ -6,7 +6,6 @@ const dbCalls = require('./lib/dbCalls');
 
 connection.connect(err => {
     if (err) throw err;
-    console.log(`Connected as ID ${connection.threadId}`);
+    
     new dbCalls();
 });
-
