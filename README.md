@@ -23,7 +23,7 @@
   
   ## Usage
 
-  In order for the application to work, MySQL is required. Create an .env file and store your password inside to be able to connect, otherwise the server.js file will need to be modified.
+  In order for the application to work, MySQL is required. Create an .env file and store your password inside to be able to connect, otherwise the database.js file will need to be modified.
 
   Please refer to [this](https://drive.google.com/file/d/137EQoNFkVr8Ow560266MuJirwJirEQpq/view) video for a preview of the application.
 
